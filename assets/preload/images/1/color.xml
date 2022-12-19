@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="color.png">
+<SubTexture name="FREEFIREESUNJUEGODEMASIADOGODELCUALJAMASDEBERIAMORIR0001" x="0" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="FREEFIREESUNJUEGODEMASIADOGODELCUALJAMASDEBERIAMORIR0002" x="0" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="FREEFIREESUNJUEGODEMASIADOGODELCUALJAMASDEBERIAMORIR0003" x="1280" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="FREEFIREESUNJUEGODEMASIADOGODELCUALJAMASDEBERIAMORIR0004" x="1280" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="FREEFIREESUNJUEGODEMASIADOGODELCUALJAMASDEBERIAMORIR0005" x="0" y="720" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="FREEFIREESUNJUEGODEMASIADOGODELCUALJAMASDEBERIAMORIR0006" x="0" y="720" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="FREEFIREESUNJUEGODEMASIADOGODELCUALJAMASDEBERIAMORIR0007" x="1280" y="720" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="FREEFIREESUNJUEGODEMASIADOGODELCUALJAMASDEBERIAMORIR0008" x="1280" y="720" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="FREEFIREESUNJUEGODEMASIADOGODELCUALJAMASDEBERIAMORIR0009" x="0" y="1440" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="FREEFIREESUNJUEGODEMASIADOGODELCUALJAMASDEBERIAMORIR0010" x="0" y="1440" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="FREEFIREESUNJUEGODEMASIADOGODELCUALJAMASDEBERIAMORIR0011" x="1280" y="1440" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="FREEFIREESUNJUEGODEMASIADOGODELCUALJAMASDEBERIAMORIR0012" x="1280" y="1440" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="FREEFIREESUNJUEGODEMASIADOGODELCUALJAMASDEBERIAMORIR0013" x="2560" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="FREEFIREESUNJUEGODEMASIADOGODELCUALJAMASDEBERIAMORIR0014" x="2560" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="FREEFIREESUNJUEGODEMASIADOGODELCUALJAMASDEBERIAMORIR0015" x="2560" y="720" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="FREEFIREESUNJUEGODEMASIADOGODELCUALJAMASDEBERIAMORIR0016" x="2560" y="720" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="FREEFIREESUNJUEGODEMASIADOGODELCUALJAMASDEBERIAMORIR0017" x="2560" y="1440" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="FREEFIREESUNJUEGODEMASIADOGODELCUALJAMASDEBERIAMORIR0018" x="2560" y="1440" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="FREEFIREESUNJUEGODEMASIADOGODELCUALJAMASDEBERIAMORIR0019" x="0" y="2160" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="FREEFIREESUNJUEGODEMASIADOGODELCUALJAMASDEBERIAMORIR0020" x="0" y="2160" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="FREEFIREESUNJUEGODEMASIADOGODELCUALJAMASDEBERIAMORIR0021" x="1280" y="2160" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="FREEFIREESUNJUEGODEMASIADOGODELCUALJAMASDEBERIAMORIR0022" x="1280" y="2160" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="FREEFIREESUNJUEGODEMASIADOGODELCUALJAMASDEBERIAMORIR0023" x="1280" y="2160" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="FREEFIREESUNJUEGODEMASIADOGODELCUALJAMASDEBERIAMORIR0024" x="1280" y="2160" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="FREEFIREESUNJUEGODEMASIADOGODELCUALJAMASDEBERIAMORIR0025" x="1280" y="2160" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="FREEFIREESUNJUEGODEMASIADOGODELCUALJAMASDEBERIAMORIR0026" x="1280" y="2160" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="FREEFIREESUNJUEGODEMASIADOGODELCUALJAMASDEBERIAMORIR0027" x="1280" y="2160" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="FREEFIREESUNJUEGODEMASIADOGODELCUALJAMASDEBERIAMORIR0028" x="1280" y="2160" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>
